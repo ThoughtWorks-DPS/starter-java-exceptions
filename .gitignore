@@ -1,0 +1,10 @@
+### Intellij ###
+.idea
+
+### Build artifacts ###
+build/
+
+### Gradle ###
+.gradle
+
+out
